@@ -11,10 +11,12 @@ Instructions and steps for using the Dynamic Vicmap web query interface:
 Useful links and references about writing GeoSPARQL queries: 
 
 https://www.w3.org/TR/sparql11-query/
-https://medium.com/wallscope/constructing-sparql-queries-ca63b8b9ac02
-https://www.ogc.org/standard/geosparql/
-https://www.youtube.com/watch?v=DsdA9y51CK0
 
+https://medium.com/wallscope/constructing-sparql-queries-ca63b8b9ac02
+
+https://www.ogc.org/standard/geosparql/
+
+https://www.youtube.com/watch?v=DsdA9y51CK0
 
 
 1) Can you show multiple geometry representations (point and polygon) for Vicmap authoritative waterbodies located within the City of Greater Shepparton?

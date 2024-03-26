@@ -4,9 +4,9 @@ Instructions and steps for using the Dynamic Vicmap web query interface:
 1.	Follow the link: https://dev6431.d2v2xgrg7bgqzr.amplifyapp.com/
 2.	Execute the already existing query in the query dashboard
 3.	Click on the zoom to extent button
-4.	Copy one of queries provided below (text in red color) to the query dashboard.
+4.	Copy one of queries provided below to the query dashboard.
 5.	Click on the execute query button.
-6.	Please wait for queries to be executed and their results to be displayed on web interface map (different queries take various time to be displayed due to query processing time and vector data rendering on the web page) and click on the ‘zoom to extent’ button.
+6.	Please wait for queries to be executed and their results to be displayed on web query interface map (different queries take various time to be displayed due to query processing time and vector data rendering on the web page) and click on the ‘zoom to extent’ button.
 
 Useful links and references about writing GeoSPARQL queries: 
 

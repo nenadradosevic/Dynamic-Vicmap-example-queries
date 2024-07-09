@@ -1,7 +1,7 @@
 ## Dynamic Vicmap: geospatial query examples 
 
 Instructions and steps for using the Dynamic Vicmap web query interface:
-1.	Follow the link: https://dev6431.d2v2xgrg7bgqzr.amplifyapp.com/
+1.	Follow the link: https://staging.d7eba651akmya.amplifyapp.com/
 2.	Execute the already existing query in the query dashboard
 3.	Click on the zoom to extent button
 4.	Copy one of queries provided below to the query dashboard.
